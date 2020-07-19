@@ -2,7 +2,7 @@
 
 ![image of profiel](https://github.com/xnslx/xnslx/blob/master/Colorful%20Geometric%20Technology%20Facebook%20Cover.png)
 
-<p>My name is Xian Li. I am a self-taught UI/UX designer and front-end developer who is in keen interest in learning anything about design and front-end development. I start my journey almost three years ago and it is really enjoyable to do it! Currently I am learning React and Redux. </p>
+<h3>My name is Xian Li. I am a self-taught UI/UX designer and front-end developer who is in keen interest in learning anything about design and front-end development. I start my journey almost three years ago and it is really enjoyable to do it! Currently I am learning React and Redux. </h3>
 </br>
 </br>
 
