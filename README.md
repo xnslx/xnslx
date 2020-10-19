@@ -18,3 +18,5 @@ My name is Xian Li. I am a self-taught UI/UX designer and front-end developer wh
 - 💬 Ask me about design and code. </br>
 - 📫 How to reach me: <a href="https://twitter.com/XianL1">Twitter</a></br>
 </h6>
+
+[![HitCount](http://hits.dwyl.com/xnslx/https://githubcom/xnslx/xnslx.svg)](http://hits.dwyl.com/xnslx/https://githubcom/xnslx/xnslx)
