@@ -3,7 +3,7 @@
 ![image of profiel](https://github.com/xnslx/xnslx/blob/master/Colorful%20Geometric%20Technology%20Facebook%20Cover.png)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-My name is Xian Li. I am a self-taught UI/UX designer and front-end developer who is in keen interest in learning everyting about design and front-end development. I start my journey almost three years ago and it is really enjoyable to do it! Currently I am learning React and Redux. 
+Hey🖐, my name is Xian. I am a UI/UX designer and full-stack javascript developer. My tech stack includes, MongoDB, React, Express, Nodejs, Nextjs, Bootstrap, Tailwind CSS, Git. I am able to bring user experience, visual design, and web development altogether.
 </br>
 </br>
 
