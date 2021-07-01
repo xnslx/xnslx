@@ -3,7 +3,7 @@
 ![image of profiel](https://github.com/xnslx/xnslx/blob/master/Colorful%20Geometric%20Technology%20Facebook%20Cover.png)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-Hey🖐, my name is Xian. I am a UI/UX designer and full-stack javascript developer. My tech stack includes, MongoDB, React, Express, Nodejs, Nextjs, Sanityio, Bootstrap, Tailwind CSS, Git. I am able to bring user experience, visual design, and web development altogether.
+Hey🖐, my name is Xian. I am a UI/UX designer and full-stack javascript developer. My tech stack includes, MongoDB, React, Express, Nodejs, Nextjs,Gatsbyjs, Sanityio, Bootstrap, Tailwind CSS, Git. I am able to bring user experience, visual design, and web development altogether.
 </br>
 </br>
 
