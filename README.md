@@ -17,3 +17,6 @@ Right now I put most of my energy in marketing jewelry store, <a href="https://w
 I can be reached by xnslx89@gmail.com
 
 “The best time to plant a tree was 20 years ago. The second best time is now.”
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
