@@ -12,7 +12,7 @@ For the UI/ UX, the main tool is AdobeXD for sketching, wire framing, designing,
 
 My current interest lies in building headless e-commerce websites. I am using SanityIo as CMS. Before Shopify released Hydrogen, a React-based framework, I use NextJs combining with SanityIo to build websites. Now I am playing a lot with Hydrogen, I have already built a demo one, <a href="https://dry-tundra-02789.herokuapp.com/">Wooden Garden</a>.
 
-My very recent side work is a very smalle <a href="https://sanity-nextjs-landing-pages-with-two-axios-carousel.netlify.app">demo website</a> that I built. I came across Zara's website the other day. I was fascinated by the two axios carousel that users can swipe carousel horizontally while for each carousel, you can swipe the slide up and down vertically. I mock a similar one. Still using SanityIo to store data. 
+My very recent side work is a very small <a href="https://sanity-nextjs-landing-pages-with-two-axios-carousel.netlify.app">demo website</a> that I built. I came across Zara's website the other day. I was fascinated by the two axios carousel that users can swipe carousel horizontally while for each carousel, you can swipe the slide up and down vertically. I mock a similar one. Still using SanityIo to store data. 
 
 Right now I put most of my energy in marketing jewelry store, <a href="https://www.naix.shop/">Naix</a>. I am the solo marketer, UI designer and developer and I love designing, building and bringing it to life. With six month of marketing, the <a href="https://www.pinterest.com/naixjewelrystore/_shop/">Pinterest</a> has already reached 150k monthly views. 
 
