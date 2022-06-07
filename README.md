@@ -1,6 +1,6 @@
 My name Xian. I am a full-time mom with two little kiddos, who are 3.5 yrs and 5.5 yrs old. 
 
-Me, my husband and our two little ones are living in Kansas, a Midwestern state in USA, in which is famous for the film The Wizard of Oz, it took place against the backdrop of Kansas. 
+Me, my husband and our two little ones are living in Kansas, a Midwestern state in USA, in which is famous for the film The Wizard of Oz, which took place against the backdrop of Kansas. 
 
 I studies English Literature and took my Master degree in UK in Sheffield University majoring in global journalism. I was a recipient of ERASMUS funding and I was also an intern in WHO Headquarter for three month. I like Switzerland, it is beautiful. 
 
