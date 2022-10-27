@@ -14,7 +14,7 @@ My current interest lies in building headless e-commerce websites. I am using Sa
 
 My very recent side work is a very small <a href="https://sanity-nextjs-landing-pages-with-two-axios-carousel.netlify.app">demo website</a> that I built. I came across Zara's website the other day. I was fascinated by the two axios carousel that users can swipe carousel horizontally while for each carousel, you can swipe the slide up and down vertically. I mock a similar one. Still using SanityIo to store data. 
 
-Right now I put most of my energy in marketing jewelry store, <a href="https://www.naix.shop/">Naix</a>. I am the solo marketer, UI designer and developer and I love designing, building and bringing it to life. With six month of marketing, the <a href="https://www.pinterest.com/naixjewelrystore/_shop/">Pinterest</a> has already reached 150k monthly views. 
+Right now I put most of my energy in marketing jewelry store, <a href="https://naix.vercel.app/">Naix</a>. I am the solo marketer, UI designer and developer and I love designing, building and bringing it to life. With six month of marketing, the <a href="https://www.pinterest.com/naixjewelrystore/_shop/">Pinterest</a> has already reached 150k monthly views. 
 
 I can be reached by xnslx89@gmail.com
 
