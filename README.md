@@ -1,3 +1,6 @@
+### Updates: Newly launched headless e-commerce website, <a href="https://naixjewelry.vercel.app/">link</a>
+
+
 My name Xian. I am a full-time mom with two little kiddos, who are 3.5 yrs and 5.5 yrs old. 
 
 Me, my husband and our two little ones are living in Kansas, a Midwestern state in USA, in which is famous for the film The Wizard of Oz, which took place against the backdrop of Kansas. 
