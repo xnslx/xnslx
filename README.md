@@ -3,10 +3,9 @@
 #### - ✈️ We relocated to Manchester, UK, from the USA at the end of April due to my husband's job change.
 #### - ✅ I hold a five-year UK work visa that allows me to work legally in the UK, including remote work for a US-based company. I do not require visa sponsorship.
 #### - 🧜‍♀️ I launched a tool (currently in Beta) that converts YouTube videos into structured Mermaid diagrams by analyzing textual content. It’s a full-stack tool built with React Router v7 and a custom Express.js backend, integrating the YouTube API and Gemini AI API to generate smart, visual summaries of video content. The project is deployed on AWS EC2 with a GitHub Actions CI/CD pipeline.👉 <a href="https://www.youtubetomermaid.site/">Live Demo</a>
+#### - 🛍️ Inspired by Zara, implement with Remix and GSAP for seamless, fluid animations. This innovative carousel features a horizontal main slider with nested vertical sliders, this design offers a unique, dynamic way to showcase content.<a href="https://carousel-sanity.vercel.app/">Zara2.0</a>
 
 ![Untitled design (28)](https://github.com/user-attachments/assets/cede03f8-f1e3-4aa5-815b-e260581c0dc3)
-
-
 
 
 
