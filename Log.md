@@ -7,3 +7,5 @@
 
 #### 07/11/2025 Write an article about how to bring down the bounce rate.
 Here is the <a href="https://xianli.substack.com/p/does-your-domain-have-a-reputation">article</a>. 
+
+#### 07/13/2025 I started working on integrating superbase to my application.
